@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @satyajitdebnath13
+- 👋 Hi, I’m @satyajit debnath
 - 👀 I’m interested in ... solving things
-- 🌱 I’m currently learning ML ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-satyajitdebnath13/satyajitdebnath13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ... satyajitdebnath.debnath@gmail.com
+- 🌱 My journey involves mastering software engineering principles, app development, and immersing myself in various technologies
