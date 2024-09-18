@@ -12,7 +12,7 @@ Hello! I'm a full stack developer 👨‍💻, having fun while working is my th
 - 🌟 I aspire to make a positive impact in the tech world and am excited about the future that lies ahead as a developer.
 
 <p align="left">
-  <img width="150" src="[https://giphy.com/embed/3NyvreZAtNLrNKTrKa](https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif)"/>
+  <img width="150" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif"/>
 </p>
 
 
