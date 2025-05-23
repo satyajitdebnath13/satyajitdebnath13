@@ -4,7 +4,7 @@
 <p align="left">
   <strong>🙋‍♂️ About Me</strong>  
 </p>
-Hello! I'm a full stack developer 👨‍💻, having fun while working is my thing(you are right i am a nerd). My interests are ever growing, encompassing software and app development, learning new languages(obviously coding) and new tools for smooth API management.
+Hello! I'm a full stack developer 👨‍💻, having fun while working is my thing (you are right i am a nerd). My interests are ever growing, encompassing software and app development, learning new languages(obviously coding) and new tools for smooth API management.
 
 - 🔭 Completed my Bachelor's degree in Computer Science Engineering at University of Engineering and Management, Kolkata.
 - 🌱 My journey covered mastering software engineering principles, app development, working with Data Structures and Algorithms, and immersing myself in various technologies.
